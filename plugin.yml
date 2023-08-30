@@ -1,0 +1,5 @@
+name: Minereset
+version: 0.0.1
+main: Minereset\Main
+api: 5.0.0
+src-namespace-prefix: Minereset
